@@ -10,8 +10,8 @@
 ## 👥 ผู้จัดทำและอาจารย์ที่ปรึกษา
 
 * **ผู้จัดทำโครงงาน:**
-  * นายจรวัฒน วัฒนยนต์ตกว
-  * นายณฐกุล พลเดช
+  * นายจิรวัฒน์ วัฒนยนต์กิจ
+  * นายณัฐกุล พลเดช
 * **อาจารย์ที่ปรึกษา:**
   * ผู้ช่วยศาสตราจารย์ ดร.จินดา คงเจริญ
 * **สังกัด:**  
@@ -31,7 +31,8 @@
 ```text
 EcoMind_Submission/
 ├── 1_Report/
-│   └── Template_Extended_Abstract 2027_013_017.docx   # เล่มบทคัดย่อขยาย (Extended Abstract) ฉบับสมบูรณ์
+│   ├── ไฟล์รายงาน EcoMind AI ฉบับสมบูรณ์.docx   # เล่มบทคัดย่อขยาย (Extended Abstract) ฉบับสมบูรณ์
+│   └── ไฟล์รายงาน EcoMind AI ฉบับสมบูรณ์.pdf    # เล่มบทคัดย่อขยาย (Extended Abstract) รูปแบบ PDF
 ├── 2_Poster/
 │   ├── Poster EcoMind AI.png                          # โปสเตอร์งานวิจัยความละเอียดสูง
 │   └── Poster EcoMind AI.pdf                          # โปสเตอร์งานวิจัยรูปแบบ PDF สำหรับพิมพ์
@@ -106,8 +107,8 @@ EcoMind_Submission/
 
 ## 🎬 สื่อและวิดีโอนำเสนอ (Presentation Video)
 
-* **วิดีโอสาธิตระบบ 1 นาที (1-Min Video Demo):** สามารถรับชมได้ที่โฟลเดอร์ `4_Video/` หรือสแกน QR Code บนโปสเตอร์งานวิจัย
-* **เอกสารเล่มรายงานฉบับสมบูรณ์ (Extended Abstract):** ดาวน์โหลดได้ที่โฟลเดอร์ `1_Report/Template_Extended_Abstract 2027_013_017.docx`
+* **วิดีโอสาธิตระบบ (Video Presentation):** สามารถรับชมได้ที่โฟลเดอร์ `4_Video/Video Presentation.mp4` หรือสแกน QR Code บนโปสเตอร์งานวิจัย
+* **เอกสารเล่มรายงานฉบับสมบูรณ์ (Extended Abstract):** ดาวน์โหลดได้ที่โฟลเดอร์ `1_Report/ไฟล์รายงาน EcoMind AI ฉบับสมบูรณ์.docx` หรือ `1_Report/ไฟล์รายงาน EcoMind AI ฉบับสมบูรณ์.pdf`
 
 ---
 *© 2026-2027 EcoMind AI Project - Department of Information Technology, Faculty of Science and Industrial Technology, Prince of Songkla University, Surat Thani Campus.*
